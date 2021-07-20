@@ -20,6 +20,11 @@
   </samp>
 </p>
 
+<div align="center">
+
+![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Farkadi06&hide=contribs,prs)
+
+</div>
 
 <!--
 
