@@ -11,6 +11,18 @@
     <br />
     If you have any questions or want to collaborate, please feel free to email me. ✌
     <br />
+  </samp>
+</p>
+
+<div align="center">
+
+![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Farkadi06)
+<br/>
+<br/>
+![Oussama's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Farkadi06&layout=compact&hide=Makefile)
+<p align="center">
+  <samp>
+    <br />
     <br />
     <a href="https://resume-1999.web.app/">About Me</a>
     ·
@@ -19,10 +31,6 @@
     <a href="https://www.linkedin.com/in/oussama-farkadi">LinkedIn</a>
   </samp>
 </p>
-
-<div align="center">
-
-![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Farkadi06&hide=contribs,prs)
 
 </div>
 
