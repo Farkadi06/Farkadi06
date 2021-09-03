@@ -1,24 +1,21 @@
 <!-- ### Hi there 👋 -->
 
 <p align="center">
-  <h2 align="center"><samp>Hi there 👋</samp></h2>
+  <h2 ><samp>Hi there 👋</samp></h2>
 </p>
 
-<p align="center">
+<p >
   <samp>
-    I am Oussama, love connecting with different people so if you want to say hi, I'll
-    be happy to meet you! :)
+    Hey 👋! I’m a Final year GIS engineering student at Hassania School of Public Works. Curious and creative problem solver with a passion for technology. I aspire toward a career that will allow me to channel my creativity by crafting beautiful and engaging applications. Applications both backend and frontend in different platforms Java/JEE (SpringBoot), asp.net, node.js...
     <br />
     If you have any questions or want to collaborate, please feel free to email me. ✌
     <br />
   </samp>
 </p>
 
-<div align="center">
+<div>
 
 ![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Farkadi06)
-<br/>
-<br/>
 ![Oussama's github Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Farkadi06&layout=compact&hide=Makefile)
 <p align="center">
   <samp>
