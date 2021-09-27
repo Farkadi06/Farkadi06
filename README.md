@@ -22,7 +22,7 @@
   <samp>
     <br />
     <br />
-    <a href="https://resume.farkadioussama.me/">About Me</a>
+    <a href="https://farkadioussama.me/">About Me</a>
     ·
     <a href="mailto:oussamafarkadi@gmail.com">Email</a>
     ·
