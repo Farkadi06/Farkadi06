@@ -4,6 +4,7 @@
   <h2 ><samp>Hi there 👋</samp></h2>
 </p>
 
+<!--
 <p >
   <samp>
     Hey 👋! I’m a Final year GIS engineering student at Hassania School of Public Works. Curious and creative problem solver with a passion for technology. I aspire toward a career that will allow me to channel my creativity by crafting beautiful and engaging applications. Applications both backend and frontend in different platforms Java/JEE (SpringBoot), asp.net, node.js...
@@ -32,7 +33,7 @@
 
 </div>
 
-<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
